@@ -1,0 +1,15 @@
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\bin\Debug\net7.0\temel sınıf bilgileri.exe
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\bin\Debug\net7.0\temel sınıf bilgileri.deps.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\bin\Debug\net7.0\temel sınıf bilgileri.runtimeconfig.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\bin\Debug\net7.0\temel sınıf bilgileri.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\bin\Debug\net7.0\temel sınıf bilgileri.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\refint\temel sınıf bilgileri.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\temel sınıf bilgileri.genruntimeconfig.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\sınıflar\Constructor Kavramı\obj\Debug\net7.0\ref\temel sınıf bilgileri.dll
